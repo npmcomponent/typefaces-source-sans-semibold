@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-sans-semibold",
+  "description": "The Source Sans semibold typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
